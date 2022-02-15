@@ -1,3 +1,17 @@
-# ToDoList
-<h3>Made with HTML CSS and Vanilla Javascript</h3>
-<a>Hosted on Netlify https://hopeful-raman-6b4adf.netlify.app/<a>
+# ToDoList 📝
+
+<img align="center" src="/img/hoverboard.gif" width="450" />
+
+Go and create your ToDos **[here](https://hopeful-raman-6b4adf.netlify.app/)**
+
+## Built with:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+##
+Developed with love 💛 by [Ana Paula Cury](https://github.com/anacury/)
+
+
