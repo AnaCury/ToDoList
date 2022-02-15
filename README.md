@@ -1,8 +1,8 @@
 # ToDoList 📝
 
-<img align="center" src="/img/hoverboard.gif" width="450" />
+<img align="center" src="/img/todos.gif" width="450" />
 
-Go and create your ToDos **[here](https://hopeful-raman-6b4adf.netlify.app/)**
+Have a try! Go and create your ToDos **[here](https://hopeful-raman-6b4adf.netlify.app/)**
 
 ## Built with:
 
